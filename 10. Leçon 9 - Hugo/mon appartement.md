@@ -2,11 +2,11 @@
 
 # 根据课文仿写一篇文章
 
-L'immeuble est au bout de la rue Evariste Galois. C'est un immeuble ancien avec deux parkings. Mon studio petit est au deuxième étage avec ascenseur.
+L'immeuble est au bout de la rue Evariste Galois. C'est un immeuble ancien avec deux parkings. Mon ~~studio petit~~ [petit studio （petit, grand, nouveau, vieux 放在名词前面）]est au deuxième étage avec ascenseur.
 
 
 
-Il y a des toilettes et une salle de bains avec une douche à droite de l'entrée. Devant le couloir et à gauche, il y a une chambre avec un lit célibataire, une chaise. un bureau et une table.  En face de la chambre, j'ai la cuisine. Au bout du couloir il y a le salon avec un placard et une fenêtre grande.  Il n'y a pas un machine à laver dans mon studio. Il y a un machine à laver au rez-de-chaussée pour les tout résidents. 
+Il y a des toilettes et une salle de bains avec une douche à droite de l'entrée. ~~Devant le couloir~~ [Près de l'entrée] et à gauche, il y a une chambre avec un lit célibataire, une chaise. un bureau et une table.  En face de la chambre, ~~j'ai~~ [on a，不表示具体的谁有] la cuisine. Au bout du couloir il y a le salon avec un placard et une [grande 放在名词前面] fenêtre ~~grande~~.  Il n'y a pas ~~un~~[de表示零概念] machine à laver dans mon studio. Il y a ~~un~~[une] machine à laver au rez-de-chaussée pour [tous]les ~~tout~~ résidents. 
 
 
 
